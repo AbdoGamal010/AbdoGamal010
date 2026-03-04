@@ -3,8 +3,8 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-# I'm Abdelrahman Gamal! 👋
-### Professional Data Analyst & Web Developer
+#👋 I'm Abdelrahman Gamal! 
+###  Data Analyst & Web Developer
 
 <p align="center">
   I have a passion for turning complex data into clear growth strategies. With 2 years of hands-on experience, I’ve mastered the art of uncovering hidden business opportunities.
