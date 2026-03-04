@@ -61,14 +61,32 @@
 ## 📈 GitHub Performance
 
 
-<hr>
+### 🚀 Quick Glance
+
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; **Data Expertise:** Transforming complex data into actionable insights through **Power BI**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="12%" /><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; **Web Solutions:** High-performance websites using **WordPress** & Modern Stack. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="20" />&nbsp;&nbsp; **eCommerce:** Specialist in stores optimized for **Maximum Conversion**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Dashboards, Web Architecture, or Data Automation**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Connect with me: **[Telegram](https://t.me/YOUR_USERNAME_HERE)**<br>
 
 <div align="center">
-  <h3>🎯 Current Strategic Focus</h3>
-  <p>
-    <strong>Data Analytics:</strong> Automating Interactive Dashboards & Business Intelligence.<br>
-    <strong>Web Development:</strong> High-Performance eCommerce Solutions & Custom WordPress Architectures.
-  </p>
-  <br>
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanGamal&theme=radical&hide_border=false" width="100%" />
+</div>
+
+<div align="center" >
+  
+
+  
+  <hr />
+
+  **The Workflow Cycle**<br>
+
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="8%" alt="Cleaning Data"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="8%" alt="Visualizing Insights"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="8%" alt="Deployment Success"/>
+  <br />
+  <sub>*Clean Data -> Build Web -> Scale Business*</sub>
 </div>
