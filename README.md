@@ -10,42 +10,53 @@
   I have a passion for turning complex data into clear growth strategies. With 2 years of hands-on experience, I’ve mastered the art of uncovering hidden business opportunities.
 </p>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=AbdelrahmanGamal&style=flat&color=orange&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN_HERE)
+<p align="center">
+<a href="https://www.linkedin.com/in/abdulrhmangamal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="https://wa.me/201124612156" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"></a>
+<a href="https://t.me/Samirajop" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A8ED?style=flat-square&logo=telegram&logoColor=white"></a>
+<a href="mailto:samirajop@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="https://www.facebook.com/profile.php?id=61572651449083" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"></a>
+</p>
+
 </div>
 
 <hr>
 
 ## 🚀 About Me
-- 📊 **Data Expertise:** I don’t just deliver numbers; I provide actionable insights through advanced data cleaning and visualization.
-- 💻 **Web Solutions:** Building high-performance websites and custom digital solutions.
+- 📊 **Data Expertise:** Actionable insights through advanced cleaning and visualization.
+- 💻 **Web Solutions:** High-performance websites using **WordPress** & **Modern Tech**.
+- 🛒 **eCommerce:** Building online stores optimized for maximum conversion.
 - 🎓 **Background:** Deep interest in Management Information Systems (MIS).
-- 🤝 **Goal:** Working closely with your specific goals to ensure every dashboard or line of code adds real value.
 
 <hr>
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-FF6F61?style=flat&logo=google-charts&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+## 🛠 My Technical Stack
 
-```sql
--- My Core Competencies organized
-SELECT skills FROM abdelrahman_gamal
-WHERE expertise IN (
-    'Data Analysis', 
-    'Web Development', 
-    'Business Intelligence'
-);
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📊 Data Analysis & BI</h4>
+      <code>Excel</code> • <code>Power BI</code> • <code>SQL</code> • <code>Python</code> • <code>Statistics</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💻 Web & Design</h4>
+      <code>WordPress</code> • <code>Figma</code> • <code>Firebase</code> • <code>JavaScript</code> • <code>HTML/CSS</code>
+    </td>
+  </tr>
+</table>
 
-/* Tools: Excel, Power BI, SQL, Python, Statistics
-Web Stack: HTML, CSS, JavaScript
-*/
+<hr>
+
+<div align="center">
+  <h3>🎯 Current Strategic Focus</h3>
+  <p>
+    <strong>Data Analytics:</strong> Automating Interactive Dashboards & BI.<br>
+    <strong>Web Development:</strong> eCommerce Solutions & Custom WordPress Architectures.
+  </p>
+</div>
+
+<hr>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanGamal&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
