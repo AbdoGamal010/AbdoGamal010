@@ -26,10 +26,11 @@
 <hr>
 
 ## 🚀 About Me
-- 📊 **Data Expertise:** I provide actionable insights through advanced data cleaning and visualization.
-- 💻 **Web Solutions:** Building high-performance websites and digital solutions using **WordPress** & **Modern Tech**.
-- 🛒 **eCommerce:** Specialist in building and optimizing online stores for maximum conversion.
-- 🎓 **Background:** Deep interest in Management Information Systems (MIS).
+- 📊 **Data Expertise:** Transforming complex data into actionable insights through advanced cleaning and **Power BI** visualization.
+- 💻 **Web Solutions:** Building high-performance websites and custom digital tools using **WordPress** & Modern Stack.
+- 🛒 **eCommerce:** Specialist in creating online stores optimized for user experience and **Maximum Conversion**.
+- 🎓 **Background:** Deeply rooted in **Management Information Systems (MIS)** to align tech with business needs.
+- 🤝 **My Goal:** To work closely with you to ensure every dashboard or website adds **Real Value** to your business.
 
 <hr>
 
